@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 780f1ade-a500-39ab-b3c0-1befbcacaf78
 resourcetype: Document
 title: pasta03_uncertainty.pdf
 uid: 74bad2d2-b61a-9482-82eb-f4a1e8061a8d

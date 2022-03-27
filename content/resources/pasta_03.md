@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 780f1ade-a500-39ab-b3c0-1befbcacaf78
 resourcetype: Document
 title: pasta_03.pdf
 uid: 0d5bf5ff-f0c4-fd9c-3ce5-28bb8d25fd6c

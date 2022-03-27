@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 780f1ade-a500-39ab-b3c0-1befbcacaf78
 resourcetype: Document
 title: leastsqrs.pdf
 uid: 49291a7f-ab46-346d-2e5a-c7fdcecf764c
