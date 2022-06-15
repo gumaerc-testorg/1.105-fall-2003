@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, laboratory conduct, report content and format,
+  and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
