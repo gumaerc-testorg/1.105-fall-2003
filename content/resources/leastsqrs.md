@@ -5,6 +5,7 @@ file: /courses/1-105-solid-mechanics-laboratory-fall-2003/49291a7fab46346d2e5ac7
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: leastsqrs.pdf
 uid: 49291a7f-ab46-346d-2e5a-c7fdcecf764c
 ---
 Supplement to "Tension Test" experiment
-

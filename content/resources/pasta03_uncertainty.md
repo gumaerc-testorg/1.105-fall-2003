@@ -5,6 +5,7 @@ file: /courses/1-105-solid-mechanics-laboratory-fall-2003/74bad2d2b61a948282ebf4
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: pasta03_uncertainty.pdf
 uid: 74bad2d2-b61a-9482-82eb-f4a1e8061a8d
 ---
 Supplementary material for "Bending Strength of Pasta" experiment
-
