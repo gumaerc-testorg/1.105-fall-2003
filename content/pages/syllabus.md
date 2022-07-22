@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, laboratory conduct, report content and format,
+  and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 1b39f0d9-4c4c-2046-1d0a-4bcb57662a8c
 ---

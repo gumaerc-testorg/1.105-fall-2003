@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides an outline of how the laboratory experiments relate
+  to topics covered in the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 285d7a1f-9164-2f34-7325-0631dee7c077
 ---
