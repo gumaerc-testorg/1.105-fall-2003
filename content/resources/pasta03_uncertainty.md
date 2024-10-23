@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary material for "Bending Strength of Pasta" experiment
-file: /courses/1-105-solid-mechanics-laboratory-fall-2003/74bad2d2b61a948282ebf4a1e8061a8d_pasta03_uncertainty.pdf
+file: /ol-ocw-studio-app/courses/1-105-solid-mechanics-laboratory-fall-2003/74bad2d2b61a948282ebf4a1e8061a8d_pasta03_uncertainty.pdf
 file_size: 88743
 file_type: application/pdf
 learning_resource_types:
