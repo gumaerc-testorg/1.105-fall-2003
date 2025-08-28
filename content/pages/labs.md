@@ -3,7 +3,7 @@ content_type: page
 description: This section provides the lab experiments performed for the course and
   associated files.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 title: Labs
 uid: 780f1ade-a500-39ab-b3c0-1befbcacaf78
